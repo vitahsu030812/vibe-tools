@@ -1,6 +1,5 @@
 # PhotoPalette — AI 影像相片色卡產生器 產品規格書
 <img width="1402" height="870" alt="image" src="https://github.com/user-attachments/assets/b1d5b9eb-8d4b-4397-9901-a2bd3bdf59c0" />
----
 
 ## 1. 專案簡介 (Project Overview)
 
