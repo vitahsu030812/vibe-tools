@@ -1,5 +1,5 @@
 # PhotoPalette — AI 影像相片色卡產生器 產品規格書
-
+<img width="1402" height="870" alt="image" src="https://github.com/user-attachments/assets/b1d5b9eb-8d4b-4397-9901-a2bd3bdf59c0" />
 ---
 
 ## 1. 專案簡介 (Project Overview)
@@ -65,9 +65,3 @@ PhotoPalette 是一款專為設計師、攝影師與創作者打造的單頁 Web
 * **本地快取記錄**：
   * 使用者可儲存喜愛的配色方案至瀏覽器 LocalStorage，方便日後隨時查閱與複製。
 
----
-
-## 5. 系統需求與相容性 (Requirements)
-
-* **執行環境**：支援各大現代瀏覽器（Chrome, Edge, Safari, Firefox, iOS/Android 行動瀏覽器）。
-* **效能承諾**：15MB 內之圖片，色彩分析與 UI 渲染於 1 秒之內完成。
