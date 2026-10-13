@@ -64,3 +64,4 @@ PhotoPalette 是一款專為設計師、攝影師與創作者打造的單頁 Web
 * **本地快取記錄**：
   * 使用者可儲存喜愛的配色方案至瀏覽器 LocalStorage，方便日後隨時查閱與複製。
 
+<img width="1200" height="700" alt="photopalette-card" src="https://github.com/user-attachments/assets/7b2b9dfd-669e-483b-8fac-ba2358c5f4fb" />
